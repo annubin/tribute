@@ -22,7 +22,7 @@
 
   <figure class="figure">
   
-    <img class ="figure-img img-fluid rounded img-responsive" src = "images/sagan-stands-hands-planet-models.jpg" alt ="Carl Sagan and model of planets">
+    <img class ="figure-img img-fluid rounded img-responsive" src = "../images/sagan-stands-hands-planet-models.jpg" alt ="Carl Sagan and model of planets">
      <figcaption class="figure-caption"><em><strong>Here: Carl Sagan standing with hands on globes of planets. Undated file photo.</strong></br></em> </figcaption>
   
  </figure>

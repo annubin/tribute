@@ -1,0 +1,41 @@
+body {
+  background-color:silver;
+  padding:5px;
+}
+#row{
+    font-color:grey;
+}
+.center{
+  align:center;
+}
+.article{
+  padding:5%;
+  margin:5%;
+  font-color:white;
+}
+.black {
+  background-color:black;
+  margin:20px;
+}
+h1 {
+    font-family: Lobster, Monospace;
+  }
+
+h2 {
+  font-family: Helvetica;
+}
+
+.silver-text {
+    font-family: Helvetica, Arial, Monospace;
+    color: silver;
+    padding:5%;
+  }
+
+.golden-text {
+    color: #FFD700;
+    padding:5%;
+  }
+
+  .pie{
+    text-align: center;
+  }
